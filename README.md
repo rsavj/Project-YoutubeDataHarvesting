@@ -1,6 +1,5 @@
 **YouTube Data Harvesting and Warehousing using SQL, MongoDB, and Streamlit**
 
-http://192.168.1.2:8514
 
 **Introduction**
 
